@@ -1,0 +1,226 @@
+body{
+margin: 0%;
+padding: 0%;
+
+}
+
+.logo{
+font-size: 20px;
+
+}
+.heigh-light{
+
+
+    color: orange;
+}
+.header{
+
+    width: 1280px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0%;
+}
+.nav{
+    margin-left: 10%;
+    margin-right: 0%;
+}
+ul{
+    display: flex;
+    align-items: center;
+    align-items: center;
+    margin-left: 45%;
+    margin-right: 0%;
+    
+    
+}
+ul li{
+    list-style: none;
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+
+}
+
+ul li a{
+    text-decoration: none;
+    font-weight: 900px;
+    color: black;
+}
+
+.container{
+    display: flex;
+    width: 1280px;
+    align-items: center;
+    align-items: center;
+    margin-left: 10%;
+  
+}
+
+.toph{
+    font-size: 50px;
+   padding: 0%;
+   margin: 0%;
+   color: rgb(12, 17, 32);
+}
+
+
+.heigh-light2{
+color: rgb(156, 157, 235);
+font-size: 35px;
+margin-top: 1%;
+}
+.image{
+    width: 30%;
+    margin-left: 10%;
+}
+.image img{
+
+    width: 100%;
+}
+
+.details{
+    width: 50%;
+}
+
+
+.heigh-light3{
+
+    color: coral;
+    margin-bottom: 1%;
+    font-size: 18px;
+}
+
+.top-para{
+    color: gray;
+    font-size: 18px;
+}
+
+.top-button{
+
+    width: 20%;
+    background-color: hotpink;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 5%;
+    text-align: center;
+}
+
+.top-button a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+   
+}
+
+.heading{
+    width: 70%;
+    margin-left: 10%;
+}
+
+.heading h1{
+    text-align: center;
+    font-size: 45px;
+    margin-bottom: 3%;
+}
+
+
+.heading p{
+    text-align: center;
+    font-size: 18px;
+    color: gray;
+    margin-top: 1%;
+}
+.feature-area{
+    display: flex;
+    margin-top: 5%;
+}
+
+.box{
+    display: flex;
+    width: 40%;
+    margin-left: 10%;
+    
+}
+.box1 .icon{
+    color: rgb(247, 162, 6);
+   font-size: 40px;
+   background-color: black;
+   border-radius: 50%;
+   width: 50px;
+   height: 50px;
+   text-align: center;
+   margin-left: 30%;
+   padding: 10px;
+}
+
+.box1{
+    border: 0.5px solid rgb(238, 237, 237);
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    padding: 15px;
+    margin: 10px;
+}
+
+.half-part{
+    width: 40%;
+
+}
+.half-part p{
+    font-size: 17px;
+    
+}
+
+.contact-area{
+
+    display: flex;
+}
+
+.con-box{
+    width: 25%;
+  
+    margin: 2%;
+    padding: 10px;
+   
+}
+
+.con-box img{
+
+    width: 100%;
+    border: 1px dotted gray;
+   
+
+}
+
+.section{
+
+    width: 1280px;
+    margin-left: 6%;;
+}
+.con-box h2{
+    text-align: center;
+    background-color: rgb(117, 117, 255);
+    padding: 5px;
+    margin-top: -5px;
+   
+   
+
+}
+
+.box-button{
+    background-color: rgb(247, 117, 117);
+    padding: 10px;
+    width: 150px;
+    margin-left: 20%;
+}
+
+.con-box p{
+    text-align: center;
+    font-size: 17px;
+}
+
+.box-button a{
+    text-decoration: none;
+    font-size: 20px;
+}
